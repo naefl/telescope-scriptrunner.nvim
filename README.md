@@ -44,8 +44,8 @@ and adapt the options listed below.
 
 | key               | action               |
 |-------------------|----------------------|
-| `<CR>` run in terminal     | `te` the found script |
-| `<TAB>` (split)   | `FloatermNew` to execute the new script|
+| `<CR>` run in terminal     | `Floatterm` the found script |
+| `<TAB>` | edit the script |
 
 #### options
 
